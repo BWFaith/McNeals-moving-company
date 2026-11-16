@@ -277,7 +277,7 @@ nav a.on:after {
   align-items: center;
   color: #fff;
   overflow: hidden;
-  background: #06190b url(../assets/img/hero.jpg)
+  background: #06190b url(../assets/img/trucking.jpg)
     center/cover;
 }
 .hero:before {
@@ -1204,6 +1204,7 @@ footer .cp {
   flex-wrap: wrap;
   gap: 10px 28px;
   margin-top: 34px;
+  margin-bottom: 34px;
   padding-top: 22px;
   border-top: 1px solid rgba(255, 255, 255, 0.2);
   max-width: 560px;
@@ -1285,4 +1286,7 @@ footer .cp {
   .panel {
     display: none;
   }
+}
+.textondark {
+  color: rgb(31, 31, 31);
 }
